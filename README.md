@@ -13,7 +13,7 @@
   <a href="https://github.com/NaoWasTaken/Osmium/releases">
     <img src="https://img.shields.io/github/v/release/NaoWasTaken/Osmium?display_name=tag&label=release" alt="Latest release">
   </a>
-  <img src="https://img.shields.io/badge/platform-Windows-0078D6" alt="Windows">
+  <img src="https://img.shields.io/badge/platform-Windows-0078D6" alt="Windows/Mac">
   <img src="https://img.shields.io/badge/offline-local--first-111111" alt="Local-first">
   <img src="https://img.shields.io/badge/planning-calendar%20%26%20tasks-1f6feb" alt="Calendar and tasks">
   <img src="https://img.shields.io/badge/built%20with-Electron-47848F" alt="Built with Electron">
