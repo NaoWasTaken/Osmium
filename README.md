@@ -55,7 +55,7 @@ Download the latest build from this repository:
 
 The packaged installer is named:
 
-`Osmium_Setup_X.X.X.exe` for Windows
+`Osmium_Setup_X.X.X.exe` for Windows\
 `Osmium_Setup_X.X.X.dmg` for Mac
 
 ## Screenshots
