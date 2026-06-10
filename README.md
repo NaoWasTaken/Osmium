@@ -31,7 +31,7 @@ Your planner data stays on your machine. No internet connection is required, no 
 - It works offline by default.
 - It gives you a real calendar alongside a structured daily planner.
 - You can manage events, tasks, time blocks, notes, and recurring routines in one place.
-- It includes themes, settings, reminders, and a proper Windows installer.
+- It includes themes, settings, reminders, and a proper Windows/Mac installer.
 
 ## Features
 
@@ -55,11 +55,10 @@ Download the latest build from this repository:
 
 The packaged installer is named:
 
-`Osmium_Setup_X.X.X.exe`
+`Osmium_Setup_X.X.X.exe` for Windows
+`Osmium_Setup_X.X.X.dmg` for Mac
 
 ## Screenshots
-
-All screenshots below use intentionally fake demo content created for the README.
 
 ### Calendar
 
@@ -98,26 +97,6 @@ Osmium is a good fit if you want:
 - React
 - TypeScript
 - Vite
-
-## Development
-
-Node.js 22 is recommended.
-
-```powershell
-npm install
-npm run dev
-```
-
-## Build
-
-```powershell
-npm run build
-```
-
-This produces:
-
-- renderer assets in `dist/`
-- packaged Windows output in `release/`
 
 ## Project Goals
 
